@@ -1,0 +1,30 @@
+Question 1: Weekly Rotating Meal Menu
+
+Subject: Implement a Weekly Rotating Meal Menu for Subscribers
+
+Body:
+
+Hello,
+
+Thank you for your inquiry. I understand you need help with establishing a weekly rotating meal menu for your subscribers. Here’s how you can accomplish this using Loop:
+
+Subscription Box Options:
+Create two subscription plans: “Box of 6 meals” and “Box of 12 meals.” You can configure these plans in the Loop admin under Subscription Plans.
+
+Categorize Meal Catalogue:
+Organize your meals into categories such as Breakfast, Lunch, Dinner, Desserts, and Beverages using product tags. This will help in sorting and displaying the meals appropriately. Refer to the Loop bundle documentation for more information on setting up product tags and collections.
+
+Weekly Delivery Only:
+Set the subscription frequency to weekly and disable the one-time purchase option by setting the product availability to subscription mode only.
+
+Promote Meal Diversity:
+Prevent customers from adding multiple quantities of the same meal by using the ‘Limit Quantity’ feature in Loop, which restricts each meal to one per box.
+
+Update Menu Weekly:
+Use the Loop bulk action feature to update your menu every Friday night. This allows for efficient bulk replacement of products. Ensure new products are added to their respective collections before the update.
+
+Replace Products for Existing Subscribers:
+Set up product substitution rules within the Loop app. For example, map Product A to Product X, Product B to Product Y, etc., to automatically replace products for existing subscribers according to your configured rules.
+
+Best regards,
+Vivek Verma
